@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CacheSerializer</string>
+    <string name="hint_field_1">Field 1</string>
+    <string name="hint_field_2">Field 2</string>
+    <string name="load">Load</string>
+    <string name="save">Save</string>
+    <string name="error_empty_field">Please check both fields.</string>
+    <string name="permission_revoked_read_external_storage">No permission to access external storage</string>
+    <string name="error_save_to_cache">There was a problem while saving to cache.</string>
+    <string name="success_save_to_cache">Information saved to cache.</string>
+</resources>
